@@ -1,0 +1,53 @@
+Protocol Used : MSI
+>> Bus stats
+Number of BusRd   : 9
+Number of BusRdX  : 3
+Number of Flushes : 1
+>> Cache 0 stats
+Reads         : 0
+Read misses   : 0
+Writes        : 0
+Write misses  : 0
+Writebacks    : 0
+Invalidations : 0
+Cache blocks present :
+Set 0 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 1 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 2 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 3 => I:0x0	I:0x0	I:0x0	I:0x0	
+>> Cache 1 stats
+Reads         : 0
+Read misses   : 0
+Writes        : 0
+Write misses  : 0
+Writebacks    : 0
+Invalidations : 0
+Cache blocks present :
+Set 0 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 1 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 2 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 3 => I:0x0	I:0x0	I:0x0	I:0x0	
+>> Cache 2 stats
+Reads         : 6
+Read misses   : 5
+Writes        : 2
+Write misses  : 1
+Writebacks    : 1
+Invalidations : 0
+Cache blocks present :
+Set 0 => S:0x1400	S:0x1111	M:0x1399	S:0x1200	
+Set 1 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 2 => I:0x0	I:0x0	I:0x0	S:0x1388	
+Set 3 => I:0x0	I:0x0	I:0x0	I:0x0	
+>> Cache 3 stats
+Reads         : 4
+Read misses   : 4
+Writes        : 1
+Write misses  : 1
+Writebacks    : 0
+Invalidations : 0
+Cache blocks present :
+Set 0 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 1 => M:0x2220	S:0x2330	S:0x2440	S:0x2550	
+Set 2 => I:0x0	I:0x0	I:0x0	I:0x0	
+Set 3 => I:0x0	I:0x0	I:0x0	I:0x0	
